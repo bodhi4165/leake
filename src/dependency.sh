@@ -7,4 +7,5 @@
 . show_help.sh
 . show_help_config.sh
 . operations.sh
+. install_utils.sh
 . installer.sh

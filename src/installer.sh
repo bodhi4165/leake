@@ -57,3 +57,7 @@ uninstall(){
 		fi
 	fi
 }
+
+update() {
+	echo "update.. todo"
+}
