@@ -33,6 +33,7 @@ then
 	if [[ ! ($2 = $opt_long_compile_rebuild
 			|| $2 = $opt_long_compile_release
 			|| $2 = $opt_long_compile_final
+			|| $2 = $opt_long_compile_compile
 			|| $2 = $empty_string) ]];
 	then
 		msg_error_input_option $opt_long_compile $option
