@@ -2,4 +2,4 @@
 Easy Make
 
 Install:
-  > sudo installer.sh
+  > sudo ./installer.sh
